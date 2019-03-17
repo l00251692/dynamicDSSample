@@ -1,4 +1,4 @@
-package com.tay.demo.entity;
+package com.liuzm.paascloud.dynamicDS.demo.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

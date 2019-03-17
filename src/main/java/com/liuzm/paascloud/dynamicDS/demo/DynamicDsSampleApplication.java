@@ -1,9 +1,9 @@
-package com.tay.demo;
+package com.liuzm.paascloud.dynamicDS.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.tay.dynamicds.EnableDynamicDS;
+import com.liuzm.paascloud.dynamicds.EnableDynamicDS;
 
 @SpringBootApplication
 @EnableDynamicDS

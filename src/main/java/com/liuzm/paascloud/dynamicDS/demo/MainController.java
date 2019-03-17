@@ -1,12 +1,12 @@
-package com.tay.demo;
+package com.liuzm.paascloud.dynamicDS.demo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.tay.demo.dao.UserInfoRepository;
-import com.tay.demo.entity.UserInfo;
+import com.liuzm.paascloud.dynamicDS.demo.dao.UserInfoRepository;
+import com.liuzm.paascloud.dynamicDS.demo.entity.UserInfo;
 
 
 
